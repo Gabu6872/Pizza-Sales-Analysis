@@ -1,0 +1,2 @@
+## Executive Summary
+﻿Using SQL and Power BI, I pulled order status data from the database and created a dashboard in Power BI to track orders. After identifying that the largest revenue opportunity is to increase the sales of large-scale pizzas, I recommend that the management team produce more Large Pizzas than small and medium pizzas. Similarly, it would be essential for the production team to make more pizzas on the weekend, especially on Fridays and Saturdays.
